@@ -1,0 +1,12 @@
+{
+  "banner1_seconds": 10,
+  "banner2_seconds": 10,
+
+  "banner1": [
+    "banner1_1.png"
+  ],
+
+  "banner2": [
+    "banner2_1.png"
+  ]
+}
