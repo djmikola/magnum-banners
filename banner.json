@@ -22,7 +22,7 @@
   ],
 
   "update": {
-    "version": "1.7.5",
+    "version": "1.7.6",
     "url_template": "https://github.com/djmikola/magnum-banners/releases/download/v{version}/Magnum.Engrave.{version}.Setup.exe",
     "notes": "Доступно новое обновление. Рекомендуется установить."
   }
