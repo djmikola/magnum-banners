@@ -2,11 +2,22 @@
   "banner1_seconds": 10,
   "banner2_seconds": 10,
 
+  "banner1_link": "https://example.com/left",
+  "banner2_link": "https://example.com/right",
+
   "banner1": [
-    "banner1_1.png"
+    "banner1_1.png",
+    "banner1_2.png",
+    "banner1_3.png",
+    "banner1_4.png",
+    "banner1_5.png"
   ],
 
   "banner2": [
-    "banner2_1.png"
+    "banner2_1.png",
+    "banner2_2.png",
+    "banner2_3.png",
+    "banner2_4.png",
+    "banner2_5.png"
   ]
 }
